@@ -130,7 +130,7 @@ In this phase, I perform the process of cleaning, organizing, and formatting the
 
 ![](Images/glimpse_weightlog.PNG)
 
-Identifying a significant number of missing values in the Fat column, so, I have decided to remove that column from the weightlog dataset.
+**Identifying a significant number of missing values in the Fat column, so, I have decided to remove that column from the weightlog dataset.**
 
 ![](Images/remove_fat_column.PNG)
 
