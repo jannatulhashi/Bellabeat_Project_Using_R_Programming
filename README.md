@@ -26,9 +26,9 @@ During this phase, I will proceed with the download and importation of the datas
 
 To obtain the necessary data, Bellabeat has recommended using publicly available information that examines smart device users’ daily behaviors from FitBit Fitness Tracker Data. The FitBit Fitness Tracker Data is a public domain dataset provided through Mobius that contains personal fitness tracker information from thirty Fitbit users. The dataset includes minute-level physical activity, heart rate, and sleep monitoring output, providing information on daily activity, steps, and heart rate that can help analyze user behavior.
 
-**The dataset can be downloaded from Kaggle using this**
+### **The dataset can be downloaded from Kaggle using this:** [link](https://www.kaggle.com/arashnic/fitbit).
 
-[link](https://www.kaggle.com/arashnic/fitbit).
+
 
 It’s important to note that the dataset was generated from a distributed survey on Amazon Mechanical Turk between December 3, 2016, and December 5, 2016. The dataset comprises of 18 CSV files.
 
